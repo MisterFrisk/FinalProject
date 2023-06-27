@@ -430,3 +430,8 @@ footer{
     right: 20%;
 }
 
+ul,li{
+background-color:white
+color:white
+font-size: 20px;
+}
